@@ -1,6 +1,6 @@
 
 <div align='left'>
-  <h2>프론트엔드 개발자 권현우 입니다 👋</h2>
+  <h2>프론트엔드 개발자 권현우입니다 👋</h2>
 </div>
 <br></br>
 <div align='center'>
