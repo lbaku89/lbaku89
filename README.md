@@ -1,10 +1,11 @@
 
 <div align='left'>
-  <h2>프론트엔드 개발자 권현우입니다 👋</h2>
+  <h2>Hellow I'm Hyunwoo, a front-end developer.👋</h2>
 </div>
-
-
-
+  
+- Main language : TypeScript, JavaScript
+- Main library/framework : Next.js, React.js
+- Blog: https://khj930410.tistory.com/
 
 <div align='center'>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flbaku89%2Fhit-counter&count_bg=%237C7C7C&title_bg=%230080FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
