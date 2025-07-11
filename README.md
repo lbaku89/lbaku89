@@ -1,10 +1,10 @@
 
 <div align='left'>
-  <h2>Hellow I'm Hyunwoo, a front-end developer.👋</h2>
+  <h2>Hello I'm Hyunwoo, a front-end developer.👋</h2>
 </div>
   
-- Main language : TypeScript, JavaScript
-- Main library/framework : Next.js, React.js
+- Main languages : TypeScript, JavaScript
+- Main libraries/frameworks : Next.js, React.js
 - Blog: https://khj930410.tistory.com/
 
 <!--
