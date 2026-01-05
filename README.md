@@ -5,8 +5,7 @@
   
 - Main languages : TypeScript, JavaScript
 - Main libraries/frameworks : Next.js, React.js
-- Blog: https://khj930410.tistory.com/
-- ⭐️new Blog(현재 포스팅 이동중): https://www.kwonhyunwoo.dev/ (⬆️ 위 블로그 내용을 이동중에 있습니다.)
+- Blog: https://www.kwonhyunwoo.dev/
 
 <!--
 <div align='center'>
